@@ -1,0 +1,77 @@
+ body{
+	text-align: center;
+}
+
+img{
+	width: 15%;
+	height: 15%;
+}
+
+.usrn p{
+	margin-top: 3%;
+	margin-bottom: 1px;
+}
+
+.usrn textarea{
+	background-color: beige;
+	border: inset orange; 
+	
+}
+
+.cmt p{	
+	margin-top: 2%;
+	margin-bottom: 1px;	
+}
+
+.cmt textarea{
+	background-color: beige;
+	border: inset orange;
+}
+
+#postbtn:hover{
+	background-color: orange;
+}
+#postbtn{
+	border: 5px inset orange;
+	display: inline-block;
+	text-align: center;
+	padding: 1% 1.5%;
+	margin-top: 2%;
+	margin-bottom: 1%;
+}
+
+.newdivstyle{
+	margin: auto;
+	text-align: center;
+	width: 50%
+
+}
+.newusername{
+	text-align: left;
+	width: 50%;
+	padding-bottom: 2%;
+	margin: auto;
+	margin-top: 10%;
+	margin-bottom: 1%;
+	background-color: orange;
+	border: 5px inset beige;
+
+}
+
+.timestamp{
+	background-color: grey;
+	color: orange;
+	margin:auto;
+	width: 50%;
+	font-size: 25%;
+}
+
+.newcomment{
+	width: 75%;
+	height: 100px; 
+	padding-bottom: 2%;
+	margin: auto;
+	text-align: left;
+	border: 5px inset beige;
+	background-color: orange;
+}
